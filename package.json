@@ -1,0 +1,12 @@
+{
+  "name": "register",
+  "version": "1.0.0",
+  "description": "receive some system information and send it to a registry host",
+  "main": "run.js",
+  "dependencies": {
+    "log4js": "^0.6.29",
+    "lodash": "^3.10.1",
+    "request": "^2.67.0"
+  },
+  "author": "Marco Obermeyer"
+}
