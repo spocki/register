@@ -79,13 +79,3 @@ var loop = function() {
 };
 
 loop();
-
-
-/*
-var nodestat = require('node-stat');
-setInterval(function() {
-    nodestat.get('stat','net','load','disk', function(err, data) {
-	logger.debug(JSON.stringify(data, null, 2));
-    });
-}, 1000);
-*/
